@@ -1,0 +1,18 @@
+##1 Using printf we can get output##
+  #include <stdio.h>
+int main()
+{
+  printf("pavithra");
+}
+## 2 Using special charceter ##
+  #include<stdio.h>
+ int main()
+ {
+   printf("slow and \"steady\" wins the race");
+ }
+
+ #include<stdio.h>
+ int main()
+{
+    printf("\\n");
+ }
