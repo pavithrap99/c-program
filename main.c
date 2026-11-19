@@ -6,6 +6,7 @@
 //     else 
 //     printf("hello");
 // }
+
 // #include<stdio.h>
 // int main()
 // {
@@ -14,7 +15,7 @@
 //     printf("hi");
 //     else 
 //     printf("hello");
-// }
+//  }
 #include<stdio.h>
 int main()
 {
